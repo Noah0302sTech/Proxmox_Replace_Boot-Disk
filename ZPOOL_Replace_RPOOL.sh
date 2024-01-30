@@ -171,3 +171,14 @@
 		proxmox-boot-tool refresh
 
 	echoEnd
+
+
+
+
+
+#----- Create Folders
+	mkdir /root/Noah0302sTech
+	mkdir /root/Noah0302sTech/Proxmox_Replace_Boot-Disk
+
+#----- Move Bash-Script
+	mv ZPOOL_Replace_RPOOL.sh /root/Noah0302sTech/Proxmox_Replace_Boot-Disk/
