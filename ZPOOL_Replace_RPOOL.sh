@@ -14,6 +14,14 @@
 
 
 
+#----- WARNING
+	echo "WARNING! This only works, if you are already booted via UEFI, NOT vi BIOS!"
+
+
+
+
+
+
 #---------- Copy Data from remaining Disk to new Disk
 	#----- List Disks by-id
 		ls -l /dev/disk/by-id
