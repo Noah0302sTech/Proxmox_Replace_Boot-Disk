@@ -1,6 +1,7 @@
 #!/bin/bash
 #	Made by Noah0302sTech
 #	chmod +x ZPOOL_Replace_RPOOL.sh && bash ZPOOL_Replace_RPOOL.sh
+#	wget https://raw.githubusercontent.com/Noah0302sTech/Proxmox_Replace_Boot-Disk/testing/ZPOOL_Replace_RPOOL.sh && bash ZPOOL_Replace_RPOOL.sh
 
 
 
